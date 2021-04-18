@@ -1,7 +1,7 @@
 # {#whitepaper}
 
 <center>
-  <h1>Matic Whitepaper</h1>
+  <h1>Matic Whitepaper (Traducción)</h1>
 </center>
 
 <center>
@@ -11,19 +11,20 @@
   Anurag Arjun <<a href='mailto:anurag@matic.network'>anurag@matic.network</a>><br>
 </center>
 
-# {#Abstract}
+# {#Resumen}
 <center>
-  <h3>Abstract</h3>
+  <h3>Resumen</h3>
 </center>
 
 <div style="text-align: justify; max-width: 600px; margin: 0 auto;">
-Smart contract platforms and cryptocurrencies have captured mass attention but still have not been able to achieve mass adoption due to scalability and user experience issues. Even on Ethereum, which is the most widely used smart contracts platform, there have not been many examples of DApps which have seen mass adoption. There have been a few cases where one or the other particular application temporarily succeeded in achieving a significant user base, but it led to crippling of the entire network during the high network load times. Essentially this means that even the most advanced and widely used platforms are not ready for mass adoption yet.
+  
+Las plataforma de contratos inteligentes (<i>smart contracts<i>) y las criptomonedas han suscitado la fascinación de las masas, aún así no han podido lograr una gran adopción por estas debido a sus inherentes problemáticas de escalabilidad y experiencia relativamente sofisticada para el usuario medio. Incluso en Ethereum, plataforma de contratos inteligentes más empleada, no han habido muchos ejemplos de aplicaciones descentralizadas (<i>Dapps<i>) que hayan llevado a esta adopción masiva. A pesar de ello ha habido algunos pocos casos que temporalmente alguna u otra aplicación en concreto a conseguido captar una base de usuarios significativa, es decir tener un cierto éxito, pero a pesar de ello y por ese mismo motivo conducir a la propia red (<i>network<i>) a la saturación en tiempos de alta actividad en la misma. En consecuencia, esto nos da evidencias, que incluso las plataformas más punteras del momento aún no están listas para gestionar la actividad que generaría la adopción masiva de estas tecnologías. 
 <br/><br/>
-On the other hand, there are a few smart contract platforms which boast of higher transaction throughput, but they compromise on decentralization in order to improve transaction speeds. Also, many of the upcoming solutions propose developing their own blockchains, neglecting the billions of dollars of market cap that DApps and other projects have already created on platforms like Ethereum and others. More importantly, they neglect the massive developer community and developer ecosystem that currently exists on platforms like Ethereum.
-<br/><br/>
-<b>Matic Network strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem. It is an ​off/side chain scaling solution for existing platforms to provide scalability and superior user experience to DApps/user functionalities.</b>
-<br/><br/>
-<b>The Matic development team has chosen Ethereum as the first platform to showcase its scalability and already has a working implementation for Ethereum on Kovan Testnet.</b> It is expected to allow near-instant transfers, exchange and conversion of digital assets (e.g. crypto tokens) and cryptocurrencies in the future. The Matic Network is an adapted implementation of the Plasma framework for Ethereum to start with, but the “vision” of the Matic development team is to provide off/side chain scaling solutions for blockchains in general. Matic foundation intends to provide Matic wallet, payment APIs & SDKs, products, identity solutions and other enabling solutions that will allow developers to design, implement and migrate DApps built on base platforms like Ethereum. One of the key pillars that form the basis of Matic Network’s ideology is the improvement of user experience, this area is poorly developed for Blockchain applications as of now. The Matic Development team has already built high quality user experience Mobile/Web browser libraries which will enable businesses to create real world end user applications on a large scale. The development roadmap of the Matic Network also includes supporting cross-chain transfers and third-party Decentralized exchanges, liquidity pools etc.
+
+<b>La red (<i>network<i>) de Matic (ahora Polygon) se esfuerza por resolver los problemas de escalabilidad y usabilidad, sin comprometer ,claro esta, con la descentralización y aprovechando tanto la comunidad de desarrolladores preexistente así como todo su ecosistema. Es una solución de escalabilidad del <200b>off/side para plataformas existentes que además mejora la experiencia anterior del usuario.</b>
+<br/><br>  
+  
+<b>El equipo de desarrollo de Matic (ahora Polygon) ha elegido Ethereum como la primera plataforma para mostrar su posible escalabilidad; ya tiene una primera implementación de trabajo para Ethereum en Kovan Testnet.</b> Se espera que esta implementación permita realizar transferencias, intercambios y conversiones casi instantáneas de activos digitales (por ejemplo tokens) y criptomonedas en un futuro cercano. La red de Matic es una implementación del <i>framework<i> Plasma de Ethereum para comenzar, pero la "visión" de el equipo desarrollador de Matic es proporcionar soluciones de escalabilidad para cadenas de bloques en general. La fundación Matic tiene la intención de proporcionar billeteras Matic, pagos de APIs & SDKs, productos, soluciones de identidad y otras soluciones habilitadoras que permitirán a las personas desarolladoras diseñar, implementar y migrar <i>DApps<i>  construidas en plataformas base como no, como Ethereum. Uno de los puntos claves que forman parte de la ideología de la red Matic es el compromiso con la mejora de la experiencia de usuario, consideramos que esta área de trabajo esta poco desarrollada para las aplicaciones de cadenas de bloques por el momento. El equipo de personas detrás de Matic ya han creado una mejora en la experiencia de usuario de alta calidad, mediante librerías de navegadores móviles/web que permiten a las empresas crear aplicaciones de usuario final del mundo real a gran escala. La hoja de ruta de desarollo de la red Matic también incluye el apoyo a las transferencias entre cadenas de bloques distintas, las transferencias con <i>exchanges<i> descentralizados de terceros,piscinas de liquidez, etc.
 </div>
 
 # Why Matic? {#whymatic}
